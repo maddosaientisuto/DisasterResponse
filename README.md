@@ -19,3 +19,7 @@ python process_data.py disaster_messages.csv disaster_categories.csv DisasterRes
 python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
 python run.py
+
+
+![App Screenshot](screenshots/shot1.png)
+![App Screenshot](screenshots/shot2.png)
