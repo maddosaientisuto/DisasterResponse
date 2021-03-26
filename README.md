@@ -24,8 +24,8 @@ python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 python run.py
 
 ## Aknowledgements
-* ![Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
-* ![Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
+* [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
+* [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
 
 ## Screenshots
 
@@ -33,3 +33,9 @@ python run.py
 ![App Screenshot](screenshots/shot2.png)
 ![App Screenshot](screenshots/shot3.png)
 ![App Screenshot](screenshots/shot4.png)
+
+## Results
+Here we show screenshots of results of app after adding a message "mama".
+![App Screenshot](screenshots/shot5.png)
+![App Screenshot](screenshots/shot6.png)
+![App Screenshot](screenshots/shot7.png)
