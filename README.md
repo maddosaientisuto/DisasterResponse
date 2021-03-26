@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 Part of a Udacity class project on creating a pipeline that classifies disaster response messages.
+ 
+## Motivation
+This project derives motivation from the need of quick decision making required at times of emergencies when some disasters happen. Resources are often limited during such times and disaster response units do not have time to separate out unnecassary information messages from necassary ones. With this system in place, time and valuable resources of concerned authorities can be saved and utilized in providing relief to needy people.
 
 ## Content
 * Data
@@ -20,6 +23,13 @@ python train_classifier.py ../data/DisasterResponse.db classifier.pkl
 
 python run.py
 
+## Aknowledgements
+* ![Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
+* ![Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
+
+## Screenshots
 
 ![App Screenshot](screenshots/shot1.png)
 ![App Screenshot](screenshots/shot2.png)
+![App Screenshot](screenshots/shot3.png)
+![App Screenshot](screenshots/shot4.png)
